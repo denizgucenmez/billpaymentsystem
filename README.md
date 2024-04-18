@@ -1,12 +1,5 @@
--ER +-------------+           +--------------+
-|  Subscriber |           |   Invoice    |
-+-------------+           +--------------+
-| subscriberNo| --------- | subscriberNo |
-+-------------+           |    month     |
-                           |    amount    |
-                           |  amountPaid  |
-                           |    status    |
-                           +--------------+
+![image](https://github.com/denizgucenmez/billpaymentsystem/assets/48367205/95356fde-6345-4754-b075-589434a0ba6d)
+
 
 -JSON SOURCE CODE --> https://github.com/denizgucenmez/billpaymentsystem/blob/main/billpaymentsystem/bps.js
 
